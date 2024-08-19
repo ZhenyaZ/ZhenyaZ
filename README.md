@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenyaz&show_icons=true&locale=en&layout=compact" alt="zhenyaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenyaz&show_icons=true&locale=en" alt="zhenyaz" /></p>
+[![ZhenyaZ's GitHub | Stats](https://stats.quira.sh/ZhenyaZ/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZhenyaZ)
+[![ZhenyaZ's GitHub | Languages Over Time](https://stats.quira.sh/ZhenyaZ/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ZhenyaZ)
