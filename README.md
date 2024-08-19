@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yevhenii</h1>
 <h3 align="center">Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhenyaz&label=Profile%20views&color=0e75b6&style=flat" alt="zhenyaz" /> 
+<p align="left"> 
 <a href="https://wakatime.com/@f422e0d8-eb2d-4323-83c6-d0eb19e42fc6"><img src="https://wakatime.com/badge/user/f422e0d8-eb2d-4323-83c6-d0eb19e42fc6.svg" alt="Total time coded since Aug 4 2024" /></a></p>
 
 
