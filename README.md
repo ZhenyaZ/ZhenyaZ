@@ -21,5 +21,10 @@
     <img src="https://skillicons.dev/icons?i=git,js,ts,react,nodejs,mongodb,firebase" />
   </a>
 </p>
-<img src="https://myreadme.vercel.app/api/embed/ZhenyaZ?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zhenyaz&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="zhenyaz stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyaz&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="language stat"/>
+</p>
+</p>
 
