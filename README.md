@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@f422e0d8-eb2d-4323-83c6-d0eb19e42fc6"><img src="https://wakatime.com/badge/user/f422e0d8-eb2d-4323-83c6-d0eb19e42fc6.svg" alt="Total time coded since Aug 4 2024" /></a></p>
 
 
-- 🔭 I’m currently working on LumenShade
+- 🔭 I’m currently working on LudenShade
 
 - 🌱 I’m currently learning **TailwindCSS, NextJS, Redux**
 
