@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on FireBox
 
-- 🌱 I’m currently learning **TailwindCSS, NextJS, Redux**
+- 🌱 I’m currently learning **NestJs, Docker, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
