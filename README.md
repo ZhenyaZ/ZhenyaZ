@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yevhenii</h1>
 <h3 align="center">Web developer</h3>
 
-<p align="left"> 
-<a href="https://wakatime.com/@f422e0d8-eb2d-4323-83c6-d0eb19e42fc6"><img src="https://wakatime.com/badge/user/f422e0d8-eb2d-4323-83c6-d0eb19e42fc6.svg" alt="Total time coded since Aug 4 2024" /></a></p>
 
-- 🌱 I’m currently learning **Network Configuration, Linux and Windows Administration, Virtualizations**
-- 🌱 I'm currently transitioning from web development to DevOps and actively learning to acquire the necessary skills and knowledge, including CI/CD, cloud platforms, containerization, infrastructure automation, network configuration, Linux and Windows administration, and virtualization."
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yevhenii-zhelezniakov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
