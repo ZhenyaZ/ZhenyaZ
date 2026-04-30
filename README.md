@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi 👋, I'm Yevhenii  
 I build what I find interesting — today it’s a website, tomorrow an app, but my true passion is backend development.  
-Currently working on **Voxly** — a platform combining AI, note tracking, and smart reminders to help people organize their day in a fun and intuitive way.  
+Currently working on **Pact** — a private space for friend groups to plan events, vote on ideas, and share memories together.
 
 Always exploring new tech, experimenting, and building things I’d actually enjoy using myself.
 
