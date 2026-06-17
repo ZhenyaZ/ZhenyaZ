@@ -2,7 +2,9 @@
 
 Hi 👋, I'm Yevhenii  
 I build what I find interesting — today it's a website, tomorrow an app, but my true passion is backend development.  
-Currently working on **Pact** — a private space for friend groups to plan events, vote on ideas, and share memories together.  
+Currently working on<br>
+**Pact** — a private space for friend groups to plan events, vote on ideas, and share memories together.<br>
+**RGLens**- RGLens is a League of Legends and Valorant performance analyzer.<br>
 Always exploring new tech, experimenting, and building things I'd actually enjoy using myself.
 
 ---
