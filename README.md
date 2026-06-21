@@ -1,43 +1,114 @@
-# 💫 About Me
+<div align="center">
 
-Hi 👋, I'm Yevhenii  
-I build what I find interesting — today it's a website, tomorrow an app.  
-Currently working on<br>
-**Pact** — a private space for friend groups to plan events, vote on ideas, and share memories together.<br>
-**RGLens** — RGLens is a League of Legends and Valorant performance analyzer.<br>
-Always exploring new tech, experimenting, and building things I'd actually enjoy using myself.
+# 👋 Hey, I'm Yevhenii
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Developer;I+build+what+I+find+interesting" alt="Typing SVG" />
 
-## 📱 My Apps
+<br/>
 
-**Voxly** — AI-powered productivity app  
-Notes, smart reminders. Built with React Native & Expo.  
-(As of June 20, 2026, it is no longer available; it has been left as a portfolio project. As of June 20, 2026, the app had 23 active users and 169 downloads.)
+<em>Always exploring new tech, experimenting, and building things I'd actually enjoy using myself.</em>
 
-<br>
+<br/><br/>
 
-**Pact** — private space for friend groups  
-Plan events, vote on ideas, and share memories — all in one place. Web app built with Next.js.  
-![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat-square)
+<a href="https://github.com/ZhenyaZ">
+  <img src="https://img.shields.io/github/followers/ZhenyaZ?style=for-the-badge&logo=github&label=Followers" />
+</a>
+<a href="https://linkedin.com/in/yevhenii-zhelezniakov">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zhelezniakov.yevhenii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yevhenii-zhelezniakov) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhelezniakov.yevhenii@gmail.com)
+</div>
 
 ---
 
-## 💻 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤝 Pact</h3>
+
+A private space for friend groups.
+
+-  Plan events together
+-  Vote on ideas
+-  Preserve memories
+-  Built with privacy in mind
+
+**Stack:** Next.js · TypeScript · PostgreSQL
+
+![Status](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎯 RGLens</h3>
+
+Analytics for competitive gamers.
+
+-  Performance tracking
+-  League of Legends
+-  Valorant
+-  Actionable insights
+
+**Status:** In development
+
+</td>
+</tr>
+</table>
 
 ---
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ZhenyaZ&theme=gotham&hide_border=false)  
+## 📱 Featured Projects
+
+### Voxly
+
+AI-powered productivity app designed to help people capture ideas and stay organized.
+
+- Notes
+- Smart reminders
+- AI-powered experiences
+- Built with React Native & Expo
+
+![Status](https://img.shields.io/badge/Status-Portfolio_Project-blue?style=flat-square)
+![Users](https://img.shields.io/badge/Active_Users-23-green?style=flat-square)
+![Downloads](https://img.shields.io/badge/Downloads-169-success?style=flat-square)
+
+<sub>Archived in 2026 and preserved as part of my portfolio.</sub>
+
+---
+
+## 📦 Open Source
+
+### @zhenyaz/rgapi
+
+TypeScript SDK for the Riot Games API.  
+A clean, typed wrapper around Riot's platform and regional endpoints.
+
+[![npm version](https://img.shields.io/npm/v/%40zhenyaz%2Frgapi.svg?style=flat-square&logo=npm)](https://www.npmjs.com/package/@zhenyaz/rgapi)
+[![npm downloads](https://img.shields.io/npm/dm/%40zhenyaz%2Frgapi.svg?style=flat-square)](https://www.npmjs.com/package/@zhenyaz/rgapi)
+[![license](https://img.shields.io/npm/l/%40zhenyaz%2Frgapi.svg?style=flat-square)](https://www.npmjs.com/package/@zhenyaz/rgapi)
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nestjs,nodejs,postgres,docker,git,postman&theme=dark" />
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZhenyaZ&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenyaZ&layout=compact&theme=gotham&hide_border=true" />
+</div>
+
+---
